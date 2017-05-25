@@ -1,0 +1,1 @@
+{"baseName":"rt20170525171138","name":"Response Time","xAxis":"Time","yAxis":"Response Time [ms]","xAxisType":"TIME","attributes":["Time","Result","Average"],"group":"rt","combined":false,"created":1495725099300,"height":400,"type":"LINE"}
